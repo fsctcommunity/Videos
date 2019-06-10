@@ -12,3 +12,5 @@ Here is a current listing of the various videos/screencasts in the repository
     - Video showing several real world examples of using the Open Integration Module
 - Service Now Overview
     - Quick overview of the integration between Forescout and ServiceNow
+- Expedite IP Discovery
+    - Improve the speed Forescout discovers IP Addresses
